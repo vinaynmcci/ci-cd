@@ -36,4 +36,4 @@ jobs:
       run: |
         pip install wxpython
         export PYTHONPATH=src
-        # pytest
+        pytest
